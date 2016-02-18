@@ -69,6 +69,8 @@ padding-right: 20px;
    font-size: 14px;
    display: inline;
    padding-top: 5px;
+   border-bottom: black 2px solid;
+   box-shadow: 0 0 7px black;
  }
  #menu-b li{
 
@@ -92,9 +94,13 @@ text-decoration:none;
 list-style:none;
 position: absolute;
 left:-9999px;
+margin-top: 12px;
 }
 #menu-b ul a{
-
+  width: 149px;
+  height: 25px;
+  padding-bottom: 2px;
+  padding-top: 6px;
   white-space: nowrap;
 }
 #menu-b li:hover ul{
