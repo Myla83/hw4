@@ -38,7 +38,7 @@ padding-right: 20px;
 }
 .flag li {
   display:inline-block;
-
+  text-align: center;
 }
 .flag a {
   font-family: Tahoma;
@@ -47,24 +47,7 @@ padding-right: 20px;
   text-decoration: underline;
 }
 
-.flag a .shri-lanka {
-  padding-left: 5px;
-}
-.flag a .maldivi {
-  padding-left: 5px;
-}
-.flag a .india {
-  padding-left: 0px;
-}
-.flag a .nepal {
-  padding-left: 0px;
-}
-.flag a .tibet {
-  padding-left: 0px;
-}
-.flag a .butan {
-  padding-left: 0px;
-}
+
 .ocean {
   width: 1002px;
   height: 237px;
