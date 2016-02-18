@@ -1,0 +1,165 @@
+.wrapper {
+  width: 100%;
+  max-width: 1000px;
+  height: 978px;
+  margin: 0 auto;
+  padding: 0px 0px 0px 0px;
+  background: white;
+  border: grey 1px solid;
+  box-shadow: 0 0 7px #666;
+}
+.logo {
+  padding-left: 20px;
+  height: 174.5px;
+}
+.kontakti {
+  float: right;
+  width: 129px;
+  height: 71px;
+  color: #128aa7;
+  font-family: Tahoma;
+  font-size: 12px;
+  margin-top: 20px;
+  padding-right: 20px;
+}
+
+.flag {
+float: right;
+clear:both;
+padding-top: 20px;
+padding-right: 20px;
+}
+.flag img {
+  display:block;
+  padding: 0px 5px 0px 5px;
+}
+.flag span {
+  display:inline-block;
+}
+.flag li {
+  display:inline-block;
+
+}
+.flag a {
+  font-family: Tahoma;
+  font-size: 10px;
+  color: #128aa7;
+  text-decoration: underline;
+}
+
+.flag a .shri-lanka {
+  padding-left: 5px;
+}
+.flag a .maldivi {
+  padding-left: 5px;
+}
+.flag a .india {
+  padding-left: 0px;
+}
+.flag a .nepal {
+  padding-left: 0px;
+}
+.flag a .tibet {
+  padding-left: 0px;
+}
+.flag a .butan {
+  padding-left: 0px;
+}
+.ocean {
+  width: 1002px;
+  height: 237px;
+  border-top: #128aa7 2px solid;
+  border-bottom: #128aa7 2px solid;
+  clear: both;
+  padding-top: 0px;
+}
+
+#menu-b{
+   float: left;
+   list-style:none;
+   width: 1000px;
+   height: 38px;
+   background: #343434;
+   position: relative;
+   color: #ffffff;
+   font-family: Tahoma;
+   font-size: 14px;
+   display: inline;
+ }
+ #menu-b li{
+
+float: left;
+margin-left: 3%;
+margin-right: 3%;
+
+display: block;
+position: relative;
+}
+#menu-b li a{
+
+display:block;
+
+padding: 5px;
+color:#ffffff;
+background:#343434;
+text-decoration:none;
+}
+#menu-b ul{
+list-style:none;
+position: absolute;
+left:-9999px;
+}
+#menu-b ul a{
+
+  white-space: nowrap;
+}
+#menu-b li:hover ul{
+left:0;
+opacity:5;
+
+}
+#menu-b li:hover ul li a:hover{
+background:black;
+}
+
+.inform {
+width: 200px;
+height: 521px;
+float: left;
+background: #edeef0;
+color: #424c43;
+font-family: Tahoma;
+font-size: 14px;
+text-align: center;
+line-height: 1.7;
+
+}
+.empty {
+width: 600px;
+height: 521px;
+background: white;
+float: left;
+background: ;
+}
+.nov {
+width: 200px;
+height: 521px;
+background: #edeef0;
+float: right;
+color: #424c43;
+font-family: Tahoma;
+font-size: 14px;
+text-align: center;
+
+line-height: 1.6;
+}
+p:first-line {
+  font-size: 18px;
+}
+
+footer {
+clear: both;
+font-family: Tahoma;
+font-size: 12px;
+text-align: center;
+}
