@@ -111,6 +111,14 @@ opacity:5;
 #menu-b li:hover ul li a:hover{
 background:black;
 }
+#menu-b li.strel:after {
+content: "\25BC";
+font-size: .5em;
+right: -6px;
+top: 7px;
+position: absolute;
+display: block;
+}
 
 .inform {
 width: 200px;
