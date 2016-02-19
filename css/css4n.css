@@ -111,7 +111,7 @@ background:black;
 }
 #menu-b li.strel:after {
 content: "\25BC";
-font-size: .5em;
+font-size: .6em;
 right: -6px;
 top: 7px;
 position: absolute;
