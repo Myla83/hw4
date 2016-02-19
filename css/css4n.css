@@ -74,12 +74,10 @@ padding-right: 20px;
  }
  #menu-b li{
 
-float: left;
-margin-left: 3%;
-margin-right: 3%;
-
-display: block;
-position: relative;
+   display: inline-block;
+   margin-left: 3%;
+   margin-right: 3%;
+   position: relative;
 }
 #menu-b li a{
 
